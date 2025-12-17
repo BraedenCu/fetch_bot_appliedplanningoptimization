@@ -1,5 +1,5 @@
 
-# Go On Bot
+# Fetch Bot
 
 ## Install dependencies
 
