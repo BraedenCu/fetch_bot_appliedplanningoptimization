@@ -1,0 +1,6 @@
+uv.lock
+.vscore/*
+.venv/*
+settings.json
+*.gif
+ufactory_lite6/*
