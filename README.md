@@ -13,8 +13,6 @@ uv venv --python 3.10 && source .venv/bin/activate
 # install libraries
 uv pip install -e .
 
-uv pip install mujoco
-
 # setting up sdk
 uv pip install xarm-python-sdk
 

@@ -20,6 +20,9 @@ dependencies = [
     "tqdm",
     "rich",
     "pyrealsense2 ; sys_platform != 'darwin'",
+    "scikit-learn",
+    "mujoco",
+    "opencv-python"
 ]
 
 [tool.mypy]
